@@ -132,7 +132,6 @@
     <object>objects\object22</object>
     <object>objects\obj_menu_status</object>
     <object>objects\menu_player_status</object>
-    <object>objects\test</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Title_screen</room>
